@@ -1,0 +1,12 @@
+theme: jekyll-theme-cayman
+title: Projet STI2D / Terminale
+description: Erwan
+
+plugins:
+  - jekyll-relative-links
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  
+relative_links:
+  enabled: true
+  collections: true
